@@ -4,7 +4,7 @@ body {
 
 .odd {
     background-color: rgb(252, 162, 148);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
 .blue {
